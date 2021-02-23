@@ -1,0 +1,12 @@
+name: mastering_shiny
+title: mastering_shiny
+username:
+account: samirg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3678530
+bundleId: 4257502
+url: https://samirg.shinyapps.io/mastering_shiny/
+when: 1614012605.2129
+asMultiple: FALSE
+asStatic: FALSE
